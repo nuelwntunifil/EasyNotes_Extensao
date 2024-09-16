@@ -3,7 +3,7 @@
 title: "EasyNotes" 
 draft: false 
 language: pt-br 
-featured\_image: 
+featured\_image: featured-img.jpg
 summary: Sumário de seu projeto 
 author: Emanuel Isolan Wentz
 categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Utilidades"\] 
