@@ -29,11 +29,11 @@ linkvideo:
 ---
 
 #### Devido à enorme carga de informações e responsabilidades do dia a dia, é de grande importância manter as tarefas, ou pensamentos sempre organizados. 
-Uma das melhores formas de fazer isso é com um sistema de notas, com ferramentas que auxiliem o indivíduo a fazer anotações e lembretes, guardando informações com eficiência. 
+#### Uma das melhores formas de fazer isso é com um sistema de notas, com ferramentas que auxiliem o indivíduo a fazer anotações e lembretes, guardando informações com eficiência. 
 
 #### Desta forma, o EasyNotes foi pensado para ser um aplicativo de notas simples e de fácil utilização, 
-que possa auxiliar todos os tipos de pessoas em suas tarefas e organização, sejam elas profissionais, estudantes, 
-ou até mesmo para uso pessoal, servindo para todas as necessidades do cotidiano. 
+#### que possa auxiliar todos os tipos de pessoas em suas tarefas e organização, sejam elas profissionais, estudantes, 
+#### ou até mesmo para uso pessoal, servindo para todas as necessidades do cotidiano. 
 
 
 ## Sobre
