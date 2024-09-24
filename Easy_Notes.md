@@ -4,13 +4,13 @@ title: "EasyNotes"
 draft: false 
 language: pt-br 
 featured\_image: 
-summary: Aplicativo de gerenciamento de notas e links
+summary: A aplicação para salvar e gerenciar suas anotações.
 author: Emanuel Isolan Wentz
 categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Utilidades"\] 
 linkweb: 
 linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
----
+
 
 
 
@@ -26,7 +26,7 @@ linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
 ## Sobre
 
----
+
 
 #### Devido à enorme carga de informações e responsabilidades do dia a dia, é de grande importância manter as tarefas, ou pensamentos sempre organizados.  Uma das melhores formas de fazer isso é com um sistema de notas, com ferramentas que auxiliem o indivíduo a fazer anotações e lembretes, guardando informações com eficiência. 
 
