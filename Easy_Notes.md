@@ -8,7 +8,7 @@ summary: Sumário de seu projeto
 author: Emanuel Isolan Wentz
 categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Utilidades"\] 
 linkweb: https://nuelwntunifil.github.io/EasyNotes_Extensao/  
-linkvideo: 
+linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
 ---
 
@@ -49,11 +49,11 @@ linkvideo:
     
 ### Links Úteis:
 
-+Site
++ [Site] ()
 
-+GitHub
++ [GitHub] (https://github.com/nuelwntunifil/EasyNotes_Extensao)
 
-+Vídeo
++ [Vídeo] (https://www.youtube.com/watch?v=Y68KVqXR304)
 
 
 
