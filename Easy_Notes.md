@@ -51,9 +51,9 @@ linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
  [Site] 
 
- [GitHub] (https://github.com/nuelwntunifil/EasyNotes_Extensao)
+ [GitHub](https://github.com/nuelwntunifil/EasyNotes_Extensao)
 
- [Vídeo] (https://www.youtube.com/watch?v=Y68KVqXR304)
+ [Vídeo](https://www.youtube.com/watch?v=Y68KVqXR304)
 
 
 
