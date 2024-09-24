@@ -3,14 +3,14 @@
 title: "EasyNotes" 
 draft: false 
 language: pt-br 
-featured\_image: 
+featured\_image: img.png
 summary: A aplicação para salvar e gerenciar suas anotações.
 author: Emanuel Isolan Wentz
 categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Utilidades"\] 
 linkweb: 
 linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
-
+---
 
 
 
@@ -35,7 +35,7 @@ linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
 ## Como Funciona
 
----
+
 
 #### O aplicativo tem uma página de cadastro e uma para login. Após a criação da conta e de efetuar o login, o usuário é encaminhado para a página inicial, e tem a opção de:
 
