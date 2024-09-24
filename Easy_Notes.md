@@ -18,9 +18,9 @@ linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
 # **EasyNotes**
 
----
 
-### Aplicativo de gerenciamento de notas e links
+
+### A aplicação para salvar e gerenciar suas anotações.
 
 
 
