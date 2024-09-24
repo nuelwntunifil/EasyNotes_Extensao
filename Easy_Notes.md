@@ -3,11 +3,11 @@
 title: "EasyNotes" 
 draft: false 
 language: pt-br 
-featured\_image: featured-img.jpg
-summary: Sumário de seu projeto 
+featured\_image: 
+summary: Aplicativo de gerenciamento de notas e links
 author: Emanuel Isolan Wentz
 categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Utilidades"\] 
-linkweb: https://nuelwntunifil.github.io/EasyNotes_Extensao/  
+linkweb: 
 linkvideo: https://www.youtube.com/watch?v=Y68KVqXR304
 
 ---
